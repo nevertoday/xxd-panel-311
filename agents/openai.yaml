@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 311"
+  short_description: "旧书象形：上半保留原照，下半把主体收成旧书或手工印章里的象形符号"
+  default_prompt: "Use $xxd-panel-311 to transform my photograph following the complete canonical source brief."
