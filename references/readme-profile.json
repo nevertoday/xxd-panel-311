@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 311｜Old-Book Pictogram: keeps the photo and reduces its subject to one small faux-naive hand-drawn pictogram, like a motif from an old book, a local sign, a private collection or a handmade seal — a simplified but recognisable outline, slightly clumsy yet designed proportions, irregular hand-drawn edges, never a whole building, figure or scene. Coloured-pencil and wax-pastel grain, hand-filled pigment and textured paper; a warm, low-saturation palette such as off-white, ochre, brick red, ink green, mist blue and coffee brown with one small bright note; wide whitespace and tiny text fragments like a specimen number, handwritten label or old-book annotation. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-311 or asks for a hand-drawn pictogram, old-book stamp motif or folk symbol from a photo.",
+  "short_description": "旧书象形：把照片主体收成一枚像旧书或手工印章里的色铅笔手绘象形符号",
+  "zh-CN": {
+    "name": "旧书象形",
+    "tagline": "保留原照片，把主体收成像旧书或手工印章里的一个小象形图案。",
+    "look": "照片保持原样，设计部分只留下最能代表主体身份的核心形状：轮廓简化但认得出，比例略笨却经过安排，边缘不完全规则，看得出是手画的；不画完整的建筑、人物或场景。用色铅笔和蜡笔填色，纸纤维、颗粒和填色不匀都在。颜色温暖偏低饱和，如米白、赭黄、砖红、墨绿、雾蓝、咖啡棕，再留一小处鲜明色。符号小，四周留白；旁边的字像标本编号、手写标签或旧书注释，不做标题。",
+    "traits": ["手绘象形", "旧书印章", "色铅笔颗粒", "单一符号", "大留白"],
+    "good": [
+      "能代表一个地方的东西：一座石桥、一扇老木门、一棵榕树、一艘渡船",
+      "有故事感的旧物和日常物：一把旧钥匙、一顶草帽、一只搪瓷杯",
+      "想做成旅行手账、地方文化册或收藏标签小图的照片"
+    ],
+    "poor": [
+      "要求完整画出建筑、人物或整个场景的需求",
+      "以鲜艳色彩或强烈光影为看点的照片：霓虹夜景、彩色烟花",
+      "想要儿童涂鸦、光滑矢量、现代 App 图标或商业 Logo 的效果"
+    ]
+  },
+  "en": {
+    "name": "Old-Book Pictogram",
+    "tagline": "Keeps your photo and reduces the subject to one small pictogram, like a motif from an old book or a handmade seal.",
+    "look": "The photo stays as it is. The design keeps only the core shape that best identifies the subject: a simplified but recognisable outline, slightly clumsy yet considered proportions and irregular, clearly hand-drawn edges; never a whole building, figure or scene. Colour is laid in with coloured pencil and wax pastel, leaving paper fibre, grain and uneven filling. The palette is warm and muted, such as off-white, ochre, brick red, ink green, mist blue and coffee brown, with one small bright note. The symbol is small in open space; nearby text reads like a specimen number, a handwritten label or an old-book annotation, never a title.",
+    "traits": ["Hand-drawn pictogram", "Old-book stamp", "Coloured-pencil grain", "Single symbol", "Wide whitespace"],
+    "good": [
+      "Things that stand for a place: a stone bridge, an old wooden door, a banyan tree, a ferry",
+      "Old or everyday objects with a story: an old key, a straw hat, an enamel mug",
+      "Photos you want as a small image for a travel journal, a local culture booklet or a collector's label"
+    ],
+    "poor": [
+      "Requests to draw a complete building, figure or scene",
+      "Photos whose appeal is bright colour or strong light: neon night streets, fireworks",
+      "Wanting children's doodles, glossy vector, modern app icons or a corporate logo"
+    ]
+  },
+  "ja": {
+    "name": "古書の象形",
+    "tagline": "写真はそのままに、主役を古い本や手彫りの印にあるような小さな象形の図案にします。",
+    "look": "写真はそのまま残し、デザイン側は主役らしさをいちばん伝える核の形だけを残します。輪郭は簡略でも見分けがつき、比率は少し不器用でも考えられていて、縁は不揃いで手描きだとわかります。建物、人物、場面を丸ごと描くことはしません。色鉛筆とクレヨンで塗り、紙の繊維、粒子、塗りむらが残ります。色は温かく彩度を抑え、生成り、黄土、レンガ色、深緑、霧のような青、コーヒーブラウンなどに、鮮やかな色を一か所だけ。シンボルは小さく余白の中に置かれ、そばの文字は標本番号、手書きのラベル、古書の注釈のようで、見出しにはしません。",
+    "traits": ["手描きの象形", "古書の印", "色鉛筆の粒子", "ひとつのシンボル", "大きな余白"],
+    "good": [
+      "その土地を代表するもの：石橋、古い木の扉、ガジュマル、渡し船",
+      "物語のある古い物や日用品：古い鍵、麦わら帽子、ほうろうのカップ",
+      "旅の手帳、地域の文化冊子、コレクションのラベルの小さな絵にしたい写真"
+    ],
+    "poor": [
+      "建物、人物、場面全体をきちんと描いてほしい場合",
+      "鮮やかな色や強い光が見どころの写真：ネオンの夜景、花火",
+      "子どもの落書き、なめらかなベクター、現代的なアプリアイコン、企業ロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "옛 책 상형",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 옛 책이나 손도장 속 작은 상형 무늬로 담습니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공다움을 가장 잘 보여 주는 핵심 형태만 남깁니다. 윤곽은 단순하지만 알아볼 수 있고, 비율은 조금 서툴러도 계산되어 있으며, 가장자리는 고르지 않아 손으로 그린 것이 드러납니다. 건물, 인물, 장면 전체를 그리지는 않습니다. 색연필과 크레용으로 칠해 종이 섬유, 입자, 고르지 않은 채색이 남습니다. 색은 따뜻하고 채도가 낮아 미색, 황토, 벽돌색, 먹빛 초록, 안개 낀 파랑, 커피 갈색에 선명한 색 한 곳을 둡니다. 심벌은 작게 여백 속에 놓이고, 곁의 글자는 표본 번호나 손글씨 라벨, 옛 책의 주석 같으며 제목이 되지 않습니다.",
+    "traits": ["손그림 상형", "옛 책 도장", "색연필 입자", "단일 심벌", "넓은 여백"],
+    "good": [
+      "한 장소를 대표하는 것: 돌다리, 오래된 나무 대문, 반얀나무, 나룻배",
+      "이야기가 있는 옛 물건과 생활용품: 오래된 열쇠, 밀짚모자, 법랑 컵",
+      "여행 다이어리, 지역 문화 책자, 수집품 라벨의 작은 그림으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "건물, 인물, 장면 전체를 온전히 그려 달라는 요청",
+      "강렬한 색이나 빛이 핵심인 사진: 네온 야경, 불꽃놀이",
+      "아이 낙서, 매끈한 벡터, 현대적 앱 아이콘, 기업 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رمز تصويري من كتاب قديم",
+    "tagline": "يحتفظ بصورتك ويختصر عنصرها في رمز تصويري صغير كأنه نقش من كتاب قديم أو ختم يدوي.",
+    "look": "تبقى الصورة كما هي، ولا يحتفظ التصميم إلا بالشكل الجوهري الذي يدل على هوية العنصر: خط خارجي مبسّط لكنه معروف، ونِسب خرقاء قليلاً لكنها مدروسة، وحواف غير منتظمة يظهر فيها أثر اليد؛ ولا يُرسم مبنى أو شخص أو مشهد كامل. يُلوَّن بالأقلام الملوّنة وأقلام الشمع، فتبقى ألياف الورق والحبيبات وعدم انتظام التلوين. الألوان دافئة هادئة التشبّع، مثل الأبيض المائل للصفرة والمغرة الصفراء والأحمر الطوبي والأخضر الحبري والأزرق الضبابي والبني القهوائي، مع لمسة زاهية صغيرة واحدة. الرمز صغير في فراغ واسع، والنص بجانبه يشبه رقم عيّنة أو بطاقة مكتوبة باليد أو حاشية في كتاب قديم، لا عنواناً.",
+    "traits": ["رمز تصويري يدوي", "ختم كتاب قديم", "حبيبات القلم الملوّن", "رمز واحد", "فراغ واسع"],
+    "good": [
+      "أشياء ترمز إلى مكان: جسر حجري، باب خشبي قديم، شجرة بانيان، عبّارة",
+      "أغراض قديمة أو يومية لها حكاية: مفتاح قديم، قبعة من القش، كوب مطلي بالمينا",
+      "صور تريدها رسماً صغيراً لدفتر رحلات أو كتيّب ثقافي محلي أو بطاقة مقتنيات"
+    ],
+    "poor": [
+      "طلب رسم مبنى أو شخص أو مشهد كامل",
+      "صور جاذبيتها في الألوان الصارخة أو الإضاءة القوية: شوارع النيون ليلاً، الألعاب النارية",
+      "الرغبة في خربشات أطفال أو رسم متجهي لامع أو أيقونات تطبيقات حديثة أو شعار تجاري"
+    ]
+  }
+}
